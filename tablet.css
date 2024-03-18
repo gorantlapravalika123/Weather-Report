@@ -1,0 +1,87 @@
+@media screen and  (min-device-width: 425px) and (max-device-width:767px) {
+
+#section1 img{
+height: 50px;
+width: 50px;
+margin: 15px 20px;
+} 
+#search{
+padding: 10px;
+margin: 5px;
+}
+input{
+padding: 5px ;
+font-size:small;
+width: 100%;
+}
+button{
+ padding: 5px 5px;
+ background-color: deepskyblue;
+ color: white;
+border-style: none;
+font-weight: bold;
+}
+.highlight{
+ width: 130px;
+    
+}
+.week{
+ width: 110px;
+}
+.today{
+ width: 110px;
+}
+.data_time{
+ padding-left:10px ;
+}
+#days ul{
+ margin-left:0px;
+ gap: 10px; 
+}
+#temperature-unit ul{
+ margin-right: 10px;
+ gap: 10px;
+}
+#temperature-unit ul li{
+height: 30px;
+width: 30px;
+}
+#section2{
+ padding: 20px 20px;
+}
+.today img{
+ margin-top: 5px;
+   
+}
+.today-report{
+gap: 20px;
+}
+.weeks-report{
+ gap: 20px;
+}
+.location{
+font-size: 15px;
+padding-left: 10px;
+} 
+.condition_rain{
+font-size: 15px;
+padding-left: 10px;
+}
+.temparature{
+ padding-left: 10px;
+}.temparature #temp{
+ font-size:40px ;
+}
+.temparature span{
+font-size: 20px;
+   
+}
+#today_hilight{
+font-size: large;
+}.highlight h1{
+  margin-top: 10px;
+  text-align: center;
+  font-size: 20px;
+}
+    
+  }
